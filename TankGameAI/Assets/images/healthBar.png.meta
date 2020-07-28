@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: db0cc512680cd594f838576117d3b431
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "CanBar\u0131Arka"
+    21300002: "CanBar\u0131On"
+    21300004: healthBar_2
+    21300006: healthBar_3
+    21300008: healthBar_4
+    21300010: healthBar_5
+    21300012: healthBar_6
+    21300014: healthBar_7
+    21300016: healthBar_8
+    21300018: healthBar_9
+    21300020: healthBar_10
+    21300022: healthBar_11
+    21300024: healthBar_12
+    21300026: healthBar_13
+    21300028: healthBar_14
+    21300030: healthBar_15
+    21300032: healthBar_16
+    21300034: healthBar_17
+    21300036: healthBar_18
+    21300038: healthBar_19
+    21300040: healthBar_20
+    21300042: healthBar_21
+    21300044: healthBar_22
+    21300046: healthBar_23
+    21300048: healthBar_24
+    21300050: healthBar_25
+    21300052: healthBar_26
+    21300054: healthBar_27
+    21300056: healthBar_28
+    21300058: healthBar_29
+    21300060: healthBar_30
+    21300062: healthBar_31
+    21300064: healthBar_32
+    21300066: healthBar_33
+    21300068: healthBar_34
+    21300070: healthBar_35
+    21300072: healthBar_36
+    21300074: healthBar_37
+    21300076: healthBar_38
+    21300078: healthBar_39
+    21300080: healthBar_40
+    21300082: healthBar_41
+    21300084: healthBar_42
+    21300086: healthBar_43
+    21300088: healthBar_44
+    21300090: healthBar_45
+    21300092: healthBar_46
+    21300094: healthBar_47
+    21300096: healthBar_48
+    21300098: healthBar_49
+    21300100: healthBar_50
+    21300102: healthBar_51
+    21300104: healthBar_52
+    21300106: healthBar_53
+    21300108: healthBar_54
+    21300110: healthBar_55
+    21300112: healthBar_56
+    21300114: healthBar_57
+    21300116: healthBar_58
+    21300118: healthBar_59
+    21300120: healthBar_60
+    21300122: healthBar_61
+    21300124: healthBar_62
+    21300126: healthBar_63
+    21300128: healthBar_64
+    21300130: healthBar_65
+    21300132: healthBar_66
+    21300134: healthBar_67
+    21300136: healthBar_68
+    21300138: healthBar_69
+    21300140: healthBar_70
+    21300142: healthBar_71
+    21300144: healthBar_72
+    21300146: healthBar_73
+    21300148: healthBar_74
+    21300150: healthBar_75
+    21300152: healthBar_76
+    21300154: healthBar_77
+    21300156: healthBar_78
+    21300158: healthBar_79
+    21300160: healthBar_80
+    21300162: healthBar_81
+    21300164: healthBar_82
+    21300166: healthBar_83
+    21300168: healthBar_84
+    21300170: healthBar_85
+    21300172: healthBar_86
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "CanBar\u0131Arka"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 315
+        width: 931
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62f6901451fd14a8b7236da85f4adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "CanBar\u0131On"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 139
+        width: 861
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac99bc022b9b52498a4212918637a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0470ee87d921f5a468688a1795e31868
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
